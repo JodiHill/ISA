@@ -601,6 +601,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 433019490933720394, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.5377865
+      objectReference: {fileID: 0}
+    - target: {fileID: 433019490933720394, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10.844383
+      objectReference: {fileID: 0}
+    - target: {fileID: 433019490933720394, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.14001052
+      objectReference: {fileID: 0}
+    - target: {fileID: 433019490933720394, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -26.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 433019490933720394, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 433019490933720394, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 31.82
+      objectReference: {fileID: 0}
     - target: {fileID: 433019491447790358, guid: 1de15588f78c3af47a5c7ee811e9b55c, type: 3}
       propertyPath: m_Name
       value: Storm
@@ -741,6 +765,10 @@ PrefabInstance:
     - target: {fileID: 3345514447116215193, guid: 06f1625fedd2f55499726f2ff2c3b194, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345514447133590399, guid: 06f1625fedd2f55499726f2ff2c3b194, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3345514447135359385, guid: 06f1625fedd2f55499726f2ff2c3b194, type: 3}
       propertyPath: m_RootOrder
