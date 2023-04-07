@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ISA Project.unity
+- path: Assets/Scenes/Phone scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
